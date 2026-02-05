@@ -1,6 +1,6 @@
 cask "localpush" do
-  version "0.1.1"
-  sha256 "d8a1cd0bca09916ed8e12e1a44cdb8726292675fbad9cfaae93f717f55e0b08e"
+  version "0.1.2"
+  sha256 "edbbbc68308f012c77f6cd7c8990dc1e818d922a256151415cd44f254d8ebbfa"
 
   url "https://github.com/madshn/localpush/releases/download/v#{version}/LocalPush_#{version}_universal.dmg"
   name "LocalPush"
